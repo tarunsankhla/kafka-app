@@ -1,0 +1,10 @@
+{
+  "name": "kafka-app",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "kafka-js": "^0.0.0",
+    "kafkajs": "^2.2.4"
+  }
+}
